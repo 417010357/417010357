@@ -1,2 +1,3 @@
 # 417010357
-mi primer repositorio 
+mi primer repositorio
+el nucleo de una transformaciónn es un conjunto
